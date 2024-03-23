@@ -20,7 +20,8 @@ Cette approche, combinant à la fois des tableaux récapitulatifs et des graphiq
 
 
 
-2. **Résultats**  
+2. **Résultats**
+   
 En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes dans le jeu de données, les 20 premières avec le plus d’objets trouvés étaient : 
 
 
