@@ -95,7 +95,7 @@ Pour aller plus loin, il serait judicieux d'explorer d'autres jeux de données, 
 
 **Annexe 1Comparaison taux restitution/pertes des 5 premières gares avec le plus haut taux d’objets restitués**
 
-5 premières gares avec le plus **haut** taux de restitutions/pertes![](Aspose.Words.c8bb860a-1ec4-4677-9c6e-0e6292040b93.001.png)![](Aspose.Words.c8bb860a-1ec4-4677-9c6e-0e6292040b93.002.jpeg)
+5 premières gares avec le plus **haut** taux de restitutions/pertes![](Graphique Taux restitutions bas.jpeg)!
 
 **Annexe 2 - Comparaison taux restitution/pertes des 5 premières gares avec le plus![](Aspose.Words.c8bb860a-1ec4-4677-9c6e-0e6292040b93.003.jpeg) bas taux d’objets restitués**
 
