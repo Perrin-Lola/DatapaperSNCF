@@ -6,6 +6,8 @@ L'année 2023 n'a pas fait exception, avec un grand nombre d'objets perdus dans 
 
 Dans cette optique, cette étude examine en détail les données relatives aux objets trouvés dans les gares SNCF en 2023. Nous chercherons à identifier les gares avec le plus grand nombre d'objets trouvés, ainsi que les taux de restitution des objets perdus dans ces gares. Cette analyse vise à donner les bases d'une meilleure compréhension de la dynamique des objets trouvés dans les gares SNCF et à ouvrir la voie à des améliorations dans la gestion de ces objets.
 
+
+
 1. **Méthodologie**
 
 Pour mener à bien cette analyse, nous avons utilisé un jeu de données fourni par la SNCF, comprenant des informations détaillées sur les objets trouvés dans les gares tout au long de l'année 2023. Ce jeu de données comprenait des variables telles que la date de récupération de l'objet, la description de l'objet, la gare où il a été trouvé, et le statut de sa restitution.
@@ -16,10 +18,11 @@ Pour une meilleure compréhension des résultats, nous avons également élabor�
 
 Cette approche, combinant à la fois des tableaux récapitulatifs et des graphiques explicatifs, nous a permis d'obtenir une compréhension approfondie des données relatives aux objets trouvés dans les gares SNCF en 2023, et de présenter les résultats de manière accessible.
 
+
+
 2. **Résultats**
 
 En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes dans le jeu de données, les 20 premières avec le plus d’objets trouvés étaient :
-
 
 
 |**Gare**|**Objets Trouvés en 2023**|
@@ -45,7 +48,9 @@ En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes da
 |Orléans|1255|
 |Tours|1246|
 
+
 **Taux de Restitution des Objets Trouvés dans les 20 gares avec le plus de pertes** Nous avons ensuite examiné les taux de restitution des objets perdus par gare.
+
 
 Les cinq premières gares avec les taux de restitution les **plus élevés** étaient:
 
@@ -57,6 +62,7 @@ Les cinq premières gares avec les taux de restitution les **plus élevés** ét
 |Toulouse Matabiau|**65%**|
 |Paris Est|**63%**|
 
+
 Tandis que les cinq premières gares avec les taux de restitution les **plus bas** étaient:
 
 |**Gare**|**Taux de restitution en 2023**|
@@ -67,7 +73,10 @@ Tandis que les cinq premières gares avec les taux de restitution les **plus bas
 |Hendaye|**42%**|
 |Orléans|**38%**|
 
+
 **Visualisation graphique des différences pertes / restitutions en annexes 1 2 et 3**
+
+
 
 3. **Discussion**
 
@@ -79,30 +88,39 @@ Par ailleurs, l'étude des pertes déclarées à la SNCF où les objets n'ont pa
 
 Enfin, une analyse comparative entre les gares les mieux classées en termes de taux de restitution et celles présentant des taux plus faibles pourrait mettre en lumière les pratiques exemplaires et les possibilités d'amélioration. Cette approche comparative pourrait servir de base pour établir des normes de qualité dans la gestion des objets trouvés.
 
+
+
 4. **Conclusion**
 
 En conclusion, cette analyse des objets trouvés dans les gares SNCF en 2023 met en lumière l'importance de la gestion efficace de ces objets pour maintenir la satisfaction des clients et l'image de marque de la SNCF. Les résultats de cette étude fournissent des éléments sur les schémas de perte et de restitution des objets dans les gares, ainsi que des pistes d'action pour améliorer les processus de gestion des objets trouvés.
 
 Pour aller plus loin, il serait judicieux d'explorer d'autres jeux de données, tels que les données sur le flux de voyageurs dans les gares, les données démographiques des régions desservies par les gares, l’influence des incidents (retards, pannes…) sur les pertes ou même les données météorologiques pour évaluer l'impact des conditions météorologiques sur les pertes d'objets. Ces autres analyses pourraient fournir une compréhension plus large des facteurs qui influent sur les schémas de perte et de restitution des objets dans les gares SNCF, et éclairer davantage les stratégies de gestion des objets trouvés. En outre l'étude des pertes déclarées à la SNCF où les objets n'ont pas été retrouvés pourrait compléter cette analyse en fournissant une vue d'ensemble plus complète.
 
+
+
 5. **Bibliographie**
 - Objets trouvés, [sans date]. [en ligne]. Disponible à l’adresse : [https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/informatio n/](https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/information/) [Consulté le 23 mars 2024]. Jeu de données décrivant en détails (date, type d’objet, gare...) les objets trouvés dans les gares SNCF de France depuis 2013 jusqu’à aujourd’hui.
 - PERRIN, Lola, [sans date]. Objets trouvés - SNCF - Analyse de 2023.xlsx. [en ligne]. Disponible à l’adresse : [https://docs.google.com/spreadsheets/d/1SC56O0SDpaKPBt3wAxlIdtbrWbIUUh6_/e dit?usp=sharing&ouid=112836037344114561174&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1SC56O0SDpaKPBt3wAxlIdtbrWbIUUh6_/edit?usp=sharing&ouid=112836037344114561174&rtpof=true&sd=true) [Consulté le 23 mars 2024].
 
-  Tableur analysant les objets trouvés dans les gares SNCF en fonction de la localisation des gares et du taux de restitution.
+Tableur analysant les objets trouvés dans les gares SNCF en fonction de la localisation des gares et du taux de restitution.
+
+
 
 6. **Annexes**
 
-**Annexe 1Comparaison taux restitution/pertes des 5 premières gares avec le plus haut taux d’objets restitués**
+**Annexe 1 - Comparaison taux restitution/pertes des 5 premières gares avec le plus haut taux d’objets restitués**
 
-5 premières gares avec le plus **haut** taux de restitutions/pertes![](https://github.com/Perrin-Lola/DatapaperSNCF/blob/main/Graphique%20Taux%20restitutions%20haut.jpeg)
+5 premières gares avec le plus **haut** taux de restitutions/pertes
+![](https://github.com/Perrin-Lola/DatapaperSNCF/blob/main/Graphique%20Taux%20restitutions%20haut.jpeg)
 
 
+**Annexe 2 - Comparaison taux restitution/pertes des 5 premières gares avec le plus bas taux d’objets restitués**
 
-**Annexe 2 - Comparaison taux restitution/pertes des 5 premières gares avec le plus![](Aspose.Words.c8bb860a-1ec4-4677-9c6e-0e6292040b93.003.jpeg) bas taux d’objets restitués**
+5 premières gares avec le plus **bas** taux de restitutions/pertes
+![](https://github.com/Perrin-Lola/DatapaperSNCF/blob/main/Graphique%20Taux%20restitutions%20bas.jpeg)
 
-5 premières gares avec le plus **bas** taux de restitutions/pertes![](Aspose.Words.c8bb860a-1ec4-4677-9c6e-0e6292040b93.004.png)
 
 **Annexe 3 - Comparaison taux restitution/pertes des 20 premières gares avec le plus d’objets perdus**
 
-Comparaison taux restitutions/pertes des 20 premières gares![](Aspose.Words.c8bb860a-1ec4-4677-9c6e-0e6292040b93.005.png)![](Aspose.Words.c8bb860a-1ec4-4677-9c6e-0e6292040b93.006.jpeg)
+Comparaison taux restitutions/pertes des 20 premières gares
+![](https://github.com/Perrin-Lola/DatapaperSNCF/blob/main/Graphique%20Taux%20restitutions%20toutes%20gares.jpeg)
