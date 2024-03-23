@@ -1,4 +1,4 @@
-**Analyse des objets trouvés dans les gares SNCF en 2023**
+# Analyse des objets trouvés dans les gares SNCF en 2023
 
 La gestion des objets trouvés dans les gares ferroviaires est un aspect vital du service offert par la SNCF, l'une des plus grandes entreprises ferroviaires en Europe. Chaque jour, des milliers de voyageurs passent par les gares et il fréquent que certains d'entre eux perdent ou oublient des objets lors de leurs déplacements. La récupération et la restitution des objets trouvés sont d'une importance capitale pour maintenir la satisfaction des clients et la réputation de la SNCF.
 
@@ -8,7 +8,7 @@ Dans cette optique, cette étude examine en détail les données relatives aux o
 
 
 
-1. **Méthodologie**
+1. **Méthodologie**\
 
 Pour mener à bien cette analyse, nous avons utilisé un jeu de données fourni par la SNCF, comprenant des informations détaillées sur les objets trouvés dans les gares tout au long de l'année 2023. Ce jeu de données comprenait des variables telles que la date de récupération de l'objet, la description de l'objet, la gare où il a été trouvé, et le statut de sa restitution.
 
@@ -20,9 +20,10 @@ Cette approche, combinant à la fois des tableaux récapitulatifs et des graphiq
 
 
 
-2. **Résultats**
+2. **Résultats**\
+\
 
-En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes dans le jeu de données, les 20 premières avec le plus d’objets trouvés étaient :
+En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes dans le jeu de données, les 20 premières avec le plus d’objets trouvés étaient :\
 
 
 |**Gare**|**Objets Trouvés en 2023**|
