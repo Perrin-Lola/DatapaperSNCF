@@ -4,11 +4,11 @@ La gestion des objets trouvés dans les gares ferroviaires est un aspect vital d
 
 L'année 2023 n'a pas fait exception, avec un grand nombre d'objets perdus dans les gares SNCF à travers la France. Pour mieux comprendre les schémas de perte et de restitution des objets dans ces gares, il est impératif de mener une analyse approfondie des données disponibles. Cette analyse peut fournir des informations précieuses pour améliorer les processus de gestion des objets trouvés, identifier les tendances et les défis spécifiques à certaines gares, et proposer des solutions pour améliorer l'expérience des voyageurs.
 
-Dans cette optique, cette étude examine en détail les données relatives aux objets trouvés dans les gares SNCF en 2023. Nous chercherons à identifier les gares avec le plus grand nombre d'objets trouvés, ainsi que les taux de restitution des objets perdus dans ces gares. Cette analyse vise à donner les bases d'une meilleure compréhension de la dynamique des objets trouvés dans les gares SNCF et à ouvrir la voie à des améliorations dans la gestion de ces objets. \
+Dans cette optique, cette étude examine en détail les données relatives aux objets trouvés dans les gares SNCF en 2023. Nous chercherons à identifier les gares avec le plus grand nombre d'objets trouvés, ainsi que les taux de restitution des objets perdus dans ces gares. Cette analyse vise à donner les bases d'une meilleure compréhension de la dynamique des objets trouvés dans les gares SNCF et à ouvrir la voie à des améliorations dans la gestion de ces objets. 
 
 
 
-1. **Méthodologie** \
+1. **Méthodologie**  
 
 Pour mener à bien cette analyse, nous avons utilisé un jeu de données fourni par la SNCF, comprenant des informations détaillées sur les objets trouvés dans les gares tout au long de l'année 2023. Ce jeu de données comprenait des variables telles que la date de récupération de l'objet, la description de l'objet, la gare où il a été trouvé, et le statut de sa restitution.
 
@@ -20,10 +20,8 @@ Cette approche, combinant à la fois des tableaux récapitulatifs et des graphiq
 
 
 
-2. **Résultats** \
- \
-
-En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes dans le jeu de données, les 20 premières avec le plus d’objets trouvés étaient : \
+2. **Résultats**  
+En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes dans le jeu de données, les 20 premières avec le plus d’objets trouvés étaient : 
 
 
 |**Gare**|**Objets Trouvés en 2023**|
