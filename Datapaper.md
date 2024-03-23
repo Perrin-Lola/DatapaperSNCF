@@ -51,8 +51,7 @@ En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes da
 
 **Taux de Restitution des Objets Trouvés dans les 20 gares avec le plus de pertes** 
 
-Nous avons ensuite examiné les taux de restitution des objets perdus par gare.
-
+Nous avons ensuite examiné les taux de restitution des objets perdus par gare.  
 
 Les cinq premières gares avec les taux de restitution les **plus élevés** étaient:
 
