@@ -49,7 +49,9 @@ En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes da
 |Tours|1246|
 
 
-**Taux de Restitution des Objets Trouvés dans les 20 gares avec le plus de pertes** Nous avons ensuite examiné les taux de restitution des objets perdus par gare.
+**Taux de Restitution des Objets Trouvés dans les 20 gares avec le plus de pertes** 
+
+Nous avons ensuite examiné les taux de restitution des objets perdus par gare.
 
 
 Les cinq premières gares avec les taux de restitution les **plus élevés** étaient:
@@ -111,6 +113,7 @@ Pour aller plus loin, il serait judicieux d'explorer d'autres jeux de données, 
 **Annexe 1 - Comparaison taux restitution/pertes des 5 premières gares avec le plus haut taux d’objets restitués**
 
 5 premières gares avec le plus **haut** taux de restitutions/pertes
+
 ![](https://github.com/Perrin-Lola/DatapaperSNCF/blob/main/Graphique%20Taux%20restitutions%20haut.jpeg)
 
 
