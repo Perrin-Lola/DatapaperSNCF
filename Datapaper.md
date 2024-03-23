@@ -79,7 +79,7 @@ Tandis que les cinq premières gares avec les taux de restitution les **plus bas
 
 
 
-## 3.Discussion
+## 3. Discussion
 
 L'analyse des données révèle des variations significatives dans les taux de restitution des objets perdus par gare. Ces variations peuvent être attribuées à plusieurs facteurs, notamment la taille de la gare, le volume de trafic passager, la localisation géographique, et la qualité des processus de gestion des objets trouvés. Une piste d'étude prometteuse qui émerge est la corrélation potentielle entre le nombre de voyageurs fréquentant une gare donnée et le taux d'objets perdus.
 
@@ -119,10 +119,12 @@ Pour aller plus loin, il serait judicieux d'explorer d'autres jeux de données, 
 **Annexe 2 - Comparaison taux restitution/pertes des 5 premières gares avec le plus bas taux d’objets restitués**
 
 5 premières gares avec le plus **bas** taux de restitutions/pertes
+
 ![](https://github.com/Perrin-Lola/DatapaperSNCF/blob/main/Graphique%20Taux%20restitutions%20Bas.jpeg)
 
 
 **Annexe 3 - Comparaison taux restitution/pertes des 20 premières gares avec le plus d’objets perdus**
 
 Comparaison taux restitutions/pertes des 20 premières gares
+
 ![](https://github.com/Perrin-Lola/DatapaperSNCF/blob/main/Graphique%20Taux%20restitutions%20toutes%20gares.jpeg)
