@@ -120,7 +120,7 @@ Pour aller plus loin, il serait judicieux d'explorer d'autres jeux de données, 
 **Annexe 2 - Comparaison taux restitution/pertes des 5 premières gares avec le plus bas taux d’objets restitués**
 
 5 premières gares avec le plus **bas** taux de restitutions/pertes
-![](https://github.com/Perrin-Lola/DatapaperSNCF/blob/main/Graphique%20Taux%20restitutions%20bas.jpeg)
+![](https://github.com/Perrin-Lola/DatapaperSNCF/blob/main/Graphique%20Taux%20restitutions%20Bas.jpeg)
 
 
 **Annexe 3 - Comparaison taux restitution/pertes des 20 premières gares avec le plus d’objets perdus**
