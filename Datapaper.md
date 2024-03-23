@@ -8,7 +8,7 @@ Dans cette optique, cette étude examine en détail les données relatives aux o
 
 
 
-1. **Méthodologie**  
+1. ## Méthodologie
 
 Pour mener à bien cette analyse, nous avons utilisé un jeu de données fourni par la SNCF, comprenant des informations détaillées sur les objets trouvés dans les gares tout au long de l'année 2023. Ce jeu de données comprenait des variables telles que la date de récupération de l'objet, la description de l'objet, la gare où il a été trouvé, et le statut de sa restitution.
 
