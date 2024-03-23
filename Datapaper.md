@@ -1,6 +1,6 @@
 # Analyse des objets trouvés dans les gares SNCF en 2023
 
-La gestion des objets trouvés dans les gares ferroviaires est un aspect vital du service offert par la SNCF, l'une des plus grandes entreprises ferroviaires en Europe. Chaque jour, des milliers de voyageurs passent par les gares et il fréquent que certains d'entre eux perdent ou oublient des objets lors de leurs déplacements. La récupération et la restitution des objets trouvés sont d'une importance capitale pour maintenir la satisfaction des clients et la réputation de la SNCF.
+La gestion des objets trouvés dans les gares ferroviaires est un aspect vital du service offert par la SNCF, l'une des plus grandes entreprises ferroviaires en Europe. Chaque jour, des milliers de voyageurs passent par les gares et il est fréquent que certains d'entre eux perdent ou oublient des objets lors de leurs déplacements. La récupération et la restitution des objets trouvés sont d'une importance capitale pour maintenir la satisfaction des clients et la réputation de la SNCF.
 
 L'année 2023 n'a pas fait exception, avec un grand nombre d'objets perdus dans les gares SNCF à travers la France. Pour mieux comprendre les schémas de perte et de restitution des objets dans ces gares, il est impératif de mener une analyse approfondie des données disponibles. Cette analyse peut fournir des informations précieuses pour améliorer les processus de gestion des objets trouvés, identifier les tendances et les défis spécifiques à certaines gares, et proposer des solutions pour améliorer l'expérience des voyageurs.
 
@@ -22,7 +22,7 @@ Cette approche, combinant à la fois des tableaux récapitulatifs et des graphiq
 
 ## 2. Résultats
    
-En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes dans le jeu de données, les 20 premières avec le plus d’objets trouvés étaient : 
+En 2023, **82936 objets** ont été trouvés. Parmi toutes les gares présentes dans le jeu de données, les 20 premières avec le plus d’objets trouvés étaient : 
 
 
 |**Gare**|**Objets Trouvés en 2023**|
@@ -53,7 +53,7 @@ En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes da
 
 Nous avons ensuite examiné les taux de restitution des objets perdus par gare.  
 
-Les cinq premières gares avec les taux de restitution les **plus élevés** étaient:  
+### Les cinq premières gares avec les taux de restitution les **plus élevés** étaient:  
 
 |**Gare**|**Taux de restitution en 2023**|
 | - | - |
@@ -64,7 +64,7 @@ Les cinq premières gares avec les taux de restitution les **plus élevés** ét
 |Paris Est|**63%**|
 
 
-Tandis que les cinq premières gares avec les taux de restitution les **plus bas** étaient:  
+### Tandis que les cinq premières gares avec les taux de restitution les **plus bas** étaient:  
 
 |**Gare**|**Taux de restitution en 2023**|
 | - | - |
@@ -81,11 +81,11 @@ Tandis que les cinq premières gares avec les taux de restitution les **plus bas
 
 ## 3. Discussion
 
-L'analyse des données révèle des variations significatives dans les taux de restitution des objets perdus par gare. Ces variations peuvent être attribuées à plusieurs facteurs, notamment la taille de la gare, le volume de trafic passager, la localisation géographique, et la qualité des processus de gestion des objets trouvés. Une piste d'étude prometteuse qui émerge est la corrélation potentielle entre le nombre de voyageurs fréquentant une gare donnée et le taux d'objets perdus.
+L'analyse des données révèle des variations significatives dans les taux de restitution des objets perdus par gare. Ces variations peuvent être attribuées à plusieurs facteurs, notamment la taille de la gare, le volume de trafic passager, la localisation géographique, et la qualité des processus de gestion des objets trouvés. Une piste d'étude qui émerge est la corrélation potentielle entre le nombre de voyageurs fréquentant une gare donnée et le taux d'objets trouvés.
 
 En outre, une analyse plus approfondie pourrait explorer les types d'objets les plus fréquemment perdus dans les gares, les périodes de l'année où les pertes sont les plus fréquentes, ainsi que les différences entre les gares situées dans les zones urbaines et celles dans les zones rurales. De plus, il serait intéressant d'examiner l'impact des mesures de sensibilisation et des services de gestion des objets trouvés sur les taux de restitution, afin de déterminer les meilleures pratiques à adopter pour améliorer la récupération des objets perdus.
 
-Par ailleurs, l'étude des pertes déclarées à la SNCF où les objets n'ont pas été retrouvés pourrait fournir des informations sur les défis et les lacunes dans les processus de gestion des objets trouvés. Comprendre les raisons pour lesquelles certains objets ne sont pas retrouvés malgré les efforts déployés pour les localiser pourrait permettre à la SNCF d'identifier des domaines d'amélioration potentiels dans ses procédures de gestion des objets perdus.
+Par ailleurs, l'étude des pertes déclarées à la SNCF où les objets n'ont pas été retrouvés pourrait fournir des informations sur les défis et les lacunes dans les processus de gestion des objets trouvés. Comprendre les raisons pour lesquelles certains objets ne sont pas retrouvés malgré les efforts déployés pourrait permettre à la SNCF d'identifier des domaines d'amélioration potentiels dans ses procédures de gestion des objets perdus.
 
 Enfin, une analyse comparative entre les gares les mieux classées en termes de taux de restitution et celles présentant des taux plus faibles pourrait mettre en lumière les pratiques exemplaires et les possibilités d'amélioration. Cette approche comparative pourrait servir de base pour établir des normes de qualité dans la gestion des objets trouvés.
 
