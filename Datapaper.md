@@ -49,11 +49,11 @@ En 2023, **82936 objets** ont été trouvés. Parmi toutes les gares présentes 
 |Tours|1246|
 
 
-**Taux de Restitution des Objets Trouvés dans les 20 gares avec le plus de pertes** 
+### Taux de Restitution des Objets Trouvés dans les 20 gares avec le plus de pertes
 
 Nous avons ensuite examiné les taux de restitution des objets perdus par gare.  
 
-### Les cinq premières gares avec les taux de restitution les **plus élevés** étaient:  
+#### Les cinq premières gares avec les taux de restitution les **plus élevés** étaient:  
 
 |**Gare**|**Taux de restitution en 2023**|
 | - | - |
@@ -64,7 +64,7 @@ Nous avons ensuite examiné les taux de restitution des objets perdus par gare.
 |Paris Est|**63%**|
 
 
-### Tandis que les cinq premières gares avec les taux de restitution les **plus bas** étaient:  
+#### Tandis que les cinq premières gares avec les taux de restitution les **plus bas** étaient:  
 
 |**Gare**|**Taux de restitution en 2023**|
 | - | - |
