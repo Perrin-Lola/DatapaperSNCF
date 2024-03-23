@@ -49,10 +49,9 @@ En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes da
 
 Les cinq premières gares avec les taux de restitution les **plus élevés** étaient:
 
-
-
-|Tours|**81%**|
+|**Gare**|**Taux de restitution en 2023**|
 | - | - |
+|Tours|**81%**|
 |Nantes|**70%**|
 |Marseille Saint-Charles|**68%**|
 |Toulouse Matabiau|**65%**|
@@ -60,10 +59,9 @@ Les cinq premières gares avec les taux de restitution les **plus élevés** ét
 
 Tandis que les cinq premières gares avec les taux de restitution les **plus bas** étaient:
 
-
-
-|Lyon Perrache|**50%**|
+|**Gare**|**Taux de restitution en 2023**|
 | - | - |
+|Lyon Perrache|**50%**|
 |Rennes|**44%**|
 |Brest|**44%**|
 |Hendaye|**42%**|
