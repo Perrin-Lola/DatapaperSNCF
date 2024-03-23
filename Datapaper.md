@@ -101,9 +101,11 @@ Pour aller plus loin, il serait judicieux d'explorer d'autres jeux de données, 
 
 ## 5. Bibliographie
 
-- Objets trouvés, [sans date]. [en ligne]. Disponible à l’adresse : [https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/informatio n/](https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/information/) [Consulté le 23 mars 2024]. Jeu de données décrivant en détails (date, type d’objet, gare...) les objets trouvés dans les gares SNCF de France depuis 2013 jusqu’à aujourd’hui.
+- Objets trouvés, [sans date]. [en ligne]. Disponible à l’adresse : [https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/informatio n/](https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/information/) [Consulté le 23 mars 2024].
+Jeu de données décrivant en détails (date, type d’objet, gare...) les objets trouvés dans les gares SNCF de France depuis 2013 jusqu’à aujourd’hui.
 
-- PERRIN, Lola, [sans date]. Objets trouvés - SNCF - Analyse de 2023.xlsx. [en ligne]. Disponible à l’adresse : [https://docs.google.com/spreadsheets/d/1SC56O0SDpaKPBt3wAxlIdtbrWbIUUh6_/e dit?usp=sharing&ouid=112836037344114561174&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1SC56O0SDpaKPBt3wAxlIdtbrWbIUUh6_/edit?usp=sharing&ouid=112836037344114561174&rtpof=true&sd=true) [Consulté le 23 mars 2024]. Tableur analysant les objets trouvés dans les gares SNCF en fonction de la localisation des gares et du taux de restitution.
+- PERRIN, Lola, [sans date]. Objets trouvés - SNCF - Analyse de 2023.xlsx. [en ligne]. Disponible à l’adresse : [https://docs.google.com/spreadsheets/d/1SC56O0SDpaKPBt3wAxlIdtbrWbIUUh6_/e dit?usp=sharing&ouid=112836037344114561174&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1SC56O0SDpaKPBt3wAxlIdtbrWbIUUh6_/edit?usp=sharing&ouid=112836037344114561174&rtpof=true&sd=true) [Consulté le 23 mars 2024].
+Tableur analysant les objets trouvés dans les gares SNCF en fonction de la localisation des gares et du taux de restitution.
 
 
 
