@@ -1,17 +1,17 @@
 **Analyse des objets trouvés dans les gares SNCF en 2023**
-
+\
 La gestion des objets trouvés dans les gares ferroviaires est un aspect vital du service offert par la SNCF, l'une des plus grandes entreprises ferroviaires en Europe. Chaque jour, des milliers de voyageurs passent par les gares et il fréquent que certains d'entre eux perdent ou oublient des objets lors de leurs déplacements. La récupération et la restitution des objets trouvés sont d'une importance capitale pour maintenir la satisfaction des clients et la réputation de la SNCF.
-
+\
 L'année 2023 n'a pas fait exception, avec un grand nombre d'objets perdus dans les gares SNCF à travers la France. Pour mieux comprendre les schémas de perte et de restitution des objets dans ces gares, il est impératif de mener une analyse approfondie des données disponibles. Cette analyse peut fournir des informations précieuses pour améliorer les processus de gestion des objets trouvés, identifier les tendances et les défis spécifiques à certaines gares, et proposer des solutions pour améliorer l'expérience des voyageurs.
-
+\
 Dans cette optique, cette étude examine en détail les données relatives aux objets trouvés dans les gares SNCF en 2023. Nous chercherons à identifier les gares avec le plus grand nombre d'objets trouvés, ainsi que les taux de restitution des objets perdus dans ces gares. Cette analyse vise à donner les bases d'une meilleure compréhension de la dynamique des objets trouvés dans les gares SNCF et à ouvrir la voie à des améliorations dans la gestion de ces objets.
-
-
-
+\
+\
+\
 1. **Méthodologie**
-
+\
 Pour mener à bien cette analyse, nous avons utilisé un jeu de données fourni par la SNCF, comprenant des informations détaillées sur les objets trouvés dans les gares tout au long de l'année 2023. Ce jeu de données comprenait des variables telles que la date de récupération de l'objet, la description de l'objet, la gare où il a été trouvé, et le statut de sa restitution.
-
+\
 Nous avons commencé par nettoyer les données en supprimant les entrées dupliquées, en traitant les valeurs manquantes et en vérifiant la cohérence des données. Ensuite, nous avons procédé à l'analyse des données en réalisant des tableaux récapitulatifs présentant le nombre total d'objets trouvés dans chaque gare pour l'année 2023, ainsi que le taux de restitution des objets perdus par gare.
 
 Pour une meilleure compréhension des résultats, nous avons également élaboré des graphiques illustrant ces tableaux, permettant ainsi une visualisation claire des données. Ces graphiques ont été conçus de manière à mettre en évidence les tendances et les variations dans les schémas de perte et de restitution des objets dans les gares SNCF.
