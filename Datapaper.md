@@ -8,7 +8,7 @@ Dans cette optique, cette étude examine en détail les données relatives aux o
 
 
 
-## 1.Méthodologie
+## 1. Méthodologie
 
 Pour mener à bien cette analyse, nous avons utilisé un jeu de données fourni par la SNCF, comprenant des informations détaillées sur les objets trouvés dans les gares tout au long de l'année 2023. Ce jeu de données comprenait des variables telles que la date de récupération de l'objet, la description de l'objet, la gare où il a été trouvé, et le statut de sa restitution.
 
@@ -20,7 +20,7 @@ Cette approche, combinant à la fois des tableaux récapitulatifs et des graphiq
 
 
 
-## 2.Résultats
+## 2. Résultats
    
 En 2023, **82936 objets** ont été perdus. Parmi toutes les gares présentes dans le jeu de données, les 20 premières avec le plus d’objets trouvés étaient : 
 
@@ -90,7 +90,7 @@ Enfin, une analyse comparative entre les gares les mieux classées en termes de 
 
 
 
-## 4.Conclusion
+## 4. Conclusion
 
 En conclusion, cette analyse des objets trouvés dans les gares SNCF en 2023 met en lumière l'importance de la gestion efficace de ces objets pour maintenir la satisfaction des clients et l'image de marque de la SNCF. Les résultats de cette étude fournissent des éléments sur les schémas de perte et de restitution des objets dans les gares, ainsi que des pistes d'action pour améliorer les processus de gestion des objets trouvés.
 
@@ -98,16 +98,15 @@ Pour aller plus loin, il serait judicieux d'explorer d'autres jeux de données, 
 
 
 
-## 5.Bibliographie
+## 5. Bibliographie
 
 - Objets trouvés, [sans date]. [en ligne]. Disponible à l’adresse : [https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/informatio n/](https://ressources.data.sncf.com/explore/dataset/objets-trouves-restitution/information/) [Consulté le 23 mars 2024]. Jeu de données décrivant en détails (date, type d’objet, gare...) les objets trouvés dans les gares SNCF de France depuis 2013 jusqu’à aujourd’hui.
-- PERRIN, Lola, [sans date]. Objets trouvés - SNCF - Analyse de 2023.xlsx. [en ligne]. Disponible à l’adresse : [https://docs.google.com/spreadsheets/d/1SC56O0SDpaKPBt3wAxlIdtbrWbIUUh6_/e dit?usp=sharing&ouid=112836037344114561174&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1SC56O0SDpaKPBt3wAxlIdtbrWbIUUh6_/edit?usp=sharing&ouid=112836037344114561174&rtpof=true&sd=true) [Consulté le 23 mars 2024].
 
-Tableur analysant les objets trouvés dans les gares SNCF en fonction de la localisation des gares et du taux de restitution.
-
+- PERRIN, Lola, [sans date]. Objets trouvés - SNCF - Analyse de 2023.xlsx. [en ligne]. Disponible à l’adresse : [https://docs.google.com/spreadsheets/d/1SC56O0SDpaKPBt3wAxlIdtbrWbIUUh6_/e dit?usp=sharing&ouid=112836037344114561174&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1SC56O0SDpaKPBt3wAxlIdtbrWbIUUh6_/edit?usp=sharing&ouid=112836037344114561174&rtpof=true&sd=true) [Consulté le 23 mars 2024]. Tableur analysant les objets trouvés dans les gares SNCF en fonction de la localisation des gares et du taux de restitution.
 
 
-## 6.Annexes
+
+## 6. Annexes
 
 **Annexe 1 - Comparaison taux restitution/pertes des 5 premières gares avec le plus haut taux d’objets restitués**
 
